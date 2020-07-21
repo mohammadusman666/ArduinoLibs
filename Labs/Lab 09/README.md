@@ -24,42 +24,42 @@ In this LabTask, we created a database on Mysql server installed on the Ubuntu S
 In this LabTask, we created three php files (insert.php, delte.php, update.php) and placed them in /var/www/html directory in the Ubuntu Server machine. We added and deleted records by forming the appropriate links on the address bar of a web browser. We had to use the same database and table created in LabTask1.
 
 <p align="center">
-    <img src="Images/4.png" />
+    <img src="Images/4.PNG" />
 </p>
 
 <p align="center">
-    <img src="Images/5.png" />
+    <img src="Images/5.PNG" />
 </p>
 
 <p align="center">
-    <img src="Images/6.png" />
+    <img src="Images/6.PNG" />
 </p>
 
 <p align="center">
-    <img src="Images/7.png" />
+    <img src="Images/7.PNG" />
 </p>
 
 ## LabTask3:
 In this LabTask, we created a simple html page containing three text boxes for First Name, Last Name, Age and an Insert button. On click of Insert button, the information entered on the fields is stored in the table created in LabTask1. We also added html code for handling the deletion of records. The html code contains one field for entering First Name and a Delete button. On click of Delete button, the record with the same First Name as entered by the user is deleted.
 
 <p align="center">
-    <img src="Images/8.png" />
+    <img src="Images/8.PNG" />
 </p>
 
 <p align="center">
-    <img src="Images/9.png" />
+    <img src="Images/9.PNG" />
 </p>
 
 <p align="center">
-    <img src="Images/10.png" />
+    <img src="Images/10.PNG" />
 </p>
 
 <p align="center">
-    <img src="Images/11.png" />
+    <img src="Images/11.PNG" />
 </p>
 
 <p align="center">
-    <img src="Images/12.png" />
+    <img src="Images/12.PNG" />
 </p>
 
 # References
