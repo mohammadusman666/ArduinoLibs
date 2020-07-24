@@ -1,6 +1,6 @@
 # Embedded Systems
 
-As a part of our University Curriculum, we performed many labs for Embedded Systems - CSCS 306. This repository contains all labs, each with a description, code, circuit diagram, and lab report. If you liked the repo do star it.
+As a part of our University Curriculum, we performed many labs for Embedded Systems - CSCS 306. This repository contains all labs, each with a description, code, and circuit diagram. If you liked the repo do star it.
 
 # Contributors
 
